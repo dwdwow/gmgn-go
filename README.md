@@ -1,2 +1,2 @@
 # gmgn-go
-gmgn golang package
+垃圾gmgn，给的借口完全不能用，什么狗东西，浪费时间
